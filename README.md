@@ -2,7 +2,7 @@
 
 # Optimizing Marketing Campaigns in Banking Industry
 
-
+Group Member: Gemma Kang, Yuan Tian, Kara Li, Farhana Mannan, Julia Wang, Chengyu Zhu
 
 # Introduction
 
