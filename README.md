@@ -24,7 +24,7 @@ The algorithm of Random Forest (RF) was used in order to do classification for t
 
 ## Visualize important features of random forest classifier
 
-![Feature importance of random forest classifier](https://ibb.co/7W1npq1)
+![Feature importance of random forest classifier](https://i.imgur.com/dVULOvj.png)
 
 
 
