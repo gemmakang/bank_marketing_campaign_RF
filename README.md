@@ -9,11 +9,11 @@ Growing revenue through different marketing strategies along with a focus on the
 
 ## Explanatory data analysis
 
-![Correlation Matrix](https://ibb.co/F5sg8m6)
+![Correlation Matrix](https://i.imgur.com/JsSgRyq.png)
 
-![Distributions of important variables](https://ibb.co/g7rL3r8)
+![Distributions of important variables](https://i.imgur.com/PVXOg24.png)
 
-![](https://ibb.co/9hZfyYr)
+![](https://i.imgur.com/RllcS0v.png)
 
 
 
