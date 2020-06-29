@@ -9,11 +9,14 @@ Growing revenue through different marketing strategies along with a focus on the
 
 ## Explanatory data analysis
 
-![Correlation Matrix](https://drive.google.com/file/d/1k_o3-IzRYzNdvqAUEyOIvcBqNGsF0Y1Z/view?usp=sharing)
+![Correlation Matrix](https://ibb.co/F5sg8m6)
 
-![Distributions of important variables](https://drive.google.com/file/d/1kEUzaY7HncWE3T0lw_cpqh2_AZ7ctvIV/view?usp=sharing)
+![Distributions of important variables](https://ibb.co/g7rL3r8)
 
-![](https://drive.google.com/file/d/1ET7hsg0rsLwQW--nYINK_mDhO73tL8fV/view?usp=sharing)
+![](https://ibb.co/9hZfyYr)
+
+
+
 
 ## Model building
 
@@ -21,7 +24,7 @@ The algorithm of Random Forest (RF) was used in order to do classification for t
 
 ## Visualize important features of random forest classifier
 
-![Feature importance of random forest classifier](https://drive.google.com/file/d/1lWWoen87K6o8SA1zP0ngd8q5bM30j5FD/view?usp=sharing)
+![Feature importance of random forest classifier](https://ibb.co/7W1npq1)
 
 
 
