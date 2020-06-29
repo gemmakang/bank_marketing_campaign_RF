@@ -1,4 +1,5 @@
 
+
 # Optimizing Marketing Campaigns in Banking Industry
 
 
@@ -6,6 +7,8 @@
 # Introduction
 
 Growing revenue through different marketing strategies along with a focus on the acquisition and retention of customers is the essence for marketing campaigns in order to complete the sales goal. We want to build a model that can enable banks to increase revenue and decrease cost by determining the timing of marketing campaigns and find out the potential clients who are the most likely persuaded into purchasing a product or service.
+
+Dataset:  Marketing campaign data from a Portuguese bank with 41188 observations.
 
 ## Explanatory data analysis
 
